@@ -9,7 +9,7 @@ This MERN Stack App is a full-stack web application that combines modern technol
 ## 🌟 Features
 Tech Stack: MERN (MongoDB, Express.js, React, Node.js) + Socket.io + TailwindCSS + Daisy UI.
 
-Authentication & Authorization: Secure authentication and authorization using JSON Web Tokens (JWT).
+Authentication & Authorization: Secure authentication and authorization using JSON Web Tokens (JWT)
 
 Real-Time Messaging: Instant messaging functionality powered by Socket.io.
 
