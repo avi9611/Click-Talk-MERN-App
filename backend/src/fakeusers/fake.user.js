@@ -25,12 +25,6 @@ const fakeUsers = [
     profilePic: "https://upload.wikimedia.org/wikipedia/en/2/22/Cersei_Lannister_in_Black_Dress_in_Season_5.jpg",
   },
   {
-    email: "sansa.stark@example.com",
-    fullName: "Sansa Stark",
-    password: "123456",
-    profilePic: "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/SophieTurnerasSansaStark.jpg/220px-SophieTurnerasSansaStark.jpg",
-  },
-  {
     email: "melisandre@example.com",
     fullName: "Melisandre",
     password: "123456",
