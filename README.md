@@ -19,9 +19,8 @@ Global State Management: Efficient and scalable state management using Zustand.
 
 Error Handling: Comprehensive error handling on both the server and client sides.
 
-Deployment: Deploy your app like a pro—for free!
+Deployment: Deployed on render
 
-And Much More!
 ## 🛠️ Tech Stack
 Frontend: React, TailwindCSS, Daisy UI
 
